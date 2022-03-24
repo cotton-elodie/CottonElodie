@@ -16,5 +16,3 @@
 ![Elodie GitHub stats](https://github-readme-stats.vercel.app/api?username=cotton-elodie)]
           
 
-#GH-LIGHT-MODE-ONLY
-#GH-DARK-MODE-ONLY
